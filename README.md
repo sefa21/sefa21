@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kesse Sefa
-- 👀 I’m interested in DevOps Engineering.
-- 🌱 I’m currently learning AWS technologies, Python, PHP, Javascript, CSS, HTML.
-- 💞️ I’m looking to collaborate on software development and systems operations projects.
+- 👀 SRE/DevOps.
+- 🌱 AWS/Azure
 - 📫 +233554409433
 
 <!---
